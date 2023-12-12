@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import time
 import seeed_dht
 import RPi.GPIO as GPIO
